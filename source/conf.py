@@ -2,12 +2,12 @@
 
 # -- Project information
 
-project = 'Lumache'
-copyright = '2021, Graziella'
-author = 'Graziella'
+project = "Nate's Notes"
+copyright = '2022, Nate Bowen'
+author = 'Nate Bowen'
 
-release = '0.1'
-version = '0.1.0'
+release = '0.0'
+version = '0.0.0'
 
 # -- General configuration
 
@@ -17,6 +17,13 @@ extensions = [
     'sphinx.ext.autodoc',
     'sphinx.ext.autosummary',
     'sphinx.ext.intersphinx',
+    'sphinxcontrib.plantuml',
+    'myst_parser'
+]
+
+myst_url_schemes = [
+    "http",
+    "https"
 ]
 
 intersphinx_mapping = {
