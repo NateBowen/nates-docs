@@ -5,13 +5,11 @@ Nate's Notes
 
    This project is under active development.
 
-Contents
---------
-
 .. toctree::
    :titlesonly:
    :caption: Contents:
    :includehidden:
 
+   books/index
    career-vision/index
    systems-engineering/index
