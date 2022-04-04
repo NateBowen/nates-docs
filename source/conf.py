@@ -1,5 +1,7 @@
 # Configuration file for the Sphinx documentation builder.
 
+import os
+
 # -- Project information
 
 project = "Nate's Notes"
@@ -40,3 +42,18 @@ html_theme = 'sphinx_rtd_theme'
 
 # -- Options for EPUB output
 epub_show_urls = 'footnote'
+
+
+# PlantUML Setup
+
+if os.environ.get("READTHEDOCS") != None:
+    plantuml = 'java -Djava.awt.headless=true -jar /usr/share/plantuml/plantuml.jar'
+else:
+    plantuml = os.getenv('plantuml')
+    # plantuml = 'java -jar plantuml.jar'
+
+
+
+# plantuml = os.getenv('plantuml')
+# print(plantuml)
+# # TODO - Get Plantuml installed on build machine
