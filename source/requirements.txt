@@ -1,2 +1,2 @@
-myst-parser=0.15.1
-sphinxcontrib-plantuml=0.21
+myst-parser==0.15.1
+sphinxcontrib-plantuml==0.21
