@@ -47,7 +47,7 @@ epub_show_urls = 'footnote'
 # PlantUML Setup
 
 if os.environ.get("READTHEDOCS") != None:
-    plantuml = 'java -Djava.awt.headless=true -jar /usr/share/plantuml/plantuml.jar'
+    plantuml = 'plantuml'
 else:
     plantuml = os.getenv('plantuml')
     # plantuml = 'java -jar plantuml.jar'
