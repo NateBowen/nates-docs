@@ -9,4 +9,5 @@ Remote Health Monitoring System
 ```{uml}
 Alice -> Bob: Hi!
 Alice <- Bob: How are you?
+Alice -> Bob: Dandy.
 ```
