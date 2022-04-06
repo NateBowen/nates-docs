@@ -7,7 +7,20 @@ Remote Health Monitoring System
 ## Physical Hierarchy
 
 ```{uml}
-Alice -> Bob: Hi!
-Alice <- Bob: How are you?
-Alice -> Bob: Dandy.
+skinparam linetype ortho
+
+object "Automated Teller" as ATM
+object "Frame/Chassis" as Frame
+object "Computing SS" as ComputingSS
+object "Cash Management SS" as CashSS
+object "Communication SS" as CommunicationSS
+object "User Interface SS" as UserInterfaceSS
+object "Security SS" as SecuritySS
+
+ATM *-- Frame
+ATM *-- ComputingSS
+ATM *-- CashSS
+ATM *-- CommunicationSS
+ATM *-- UserInterfaceSS
+ATM *-- SecuritySS
 ```
