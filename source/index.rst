@@ -10,6 +10,7 @@ Nate's Notes
    :caption: Contents:
    :includehidden:
 
+   bible-study/index
    books/index
    career-vision/index
    systems-engineering/index

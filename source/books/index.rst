@@ -8,6 +8,7 @@ Books
 
    tips.md
    atomic-habits.md
+   bible-study-methods.md
    lean-startup.md
    master-of-one.md
    multipliers.md
