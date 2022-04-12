@@ -85,7 +85,7 @@ The Remote Patient Monitoring System (RPM) is installed in a patient's home.
 The RPM is turned on and a mobile device application connects to the RPM to begin system onboarding.
 The networking information is entered into the mobile device application and the data link to the cloud services are confirmed.
 
-The RPM sensors are placed on the patient by a health-care provider.
+The RPM sensors are placed on the patient by a health care provider.
 The RPM sensors gather initial data and are tested for expected functionality.
 Upon successful calibration, the data is stored securely on the RPM and the mobile device application signals that onboarding is complete.
 
@@ -103,3 +103,36 @@ Patient data is analyzed to provide...
 ### System Offboarding
 
 The RPM is removed from a patient's home.
+
+## 04 Users and Stakeholders
+
+```{admonition} Problem
+ Think about and list as many users and stakeholders for your system.
+```
+
+Primary:
+
+* Patient
+* In-home care provider
+* System technician
+* Remote health care provider
+
+Secondary:
+
+* Development engineers
+* Maintenance and support engineers
+* Owner (may not be the patient)
+* Manufacturers
+* Third-party data services
+* Adversaries (hackers)
+
+## 05 Context Diagram
+
+```{admonition} Problem
+Using the mission description(s) and stakeholder list from the previous exercises,
+create a system level context diagram.
+```
+
+```{uml}
+
+```
