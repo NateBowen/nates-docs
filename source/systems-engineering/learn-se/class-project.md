@@ -1,10 +1,14 @@
 # Learn SE Class Project
 
-## Project System
+## 01 Project System
 
 Remote Patient Monitoring System
 
-## Physical Hierarchy
+## 02 Physical Hierarchy
+
+```{admonition} Problem
+Using your chosen system, create a physical hierarchy of its critical elements.
+```
 
 ```{uml}
 skinparam linetype ortho
@@ -33,6 +37,10 @@ object "Mobile Software" as MobileSoftware
 
 object "Cloud SS" as CloudSS
 
+object "Power SS" as PowerSS
+object "Batteries" as Batteries
+object "Charging Devices" as Chargers
+
 object "Security SS" as SecuritySS
 
 RPM *-- ComputingSS
@@ -42,6 +50,7 @@ RPM *-- CloudSS
 RPM *-- UserInterfaceSS
 RPM *-- SecuritySS
 RPM *-- Enclosure
+RPM *-- PowerSS
 
 ComputingSS *-- Processor
 ComputingSS *-- Firmware
@@ -56,4 +65,41 @@ CommunicationSS *-- Antenna
 
 UserInterfaceSS *-- MobileUI
 UserInterfaceSS *-- MobileSoftware
+
+PowerSS *-- Batteries
+PowerSS *-- Chargers
 ```
+
+## 03 Mission Description
+
+```{admonition} Problem
+Using your chosen system, draft a story/walkthrough of the primary mission for your system.
+For added value, draft stories/walkthroughs of secondary, tertiary and even adversarial missions for your system.
+Typically, the more, the better.
+```
+
+### System Onboarding
+
+The Remote Patient Monitoring System (RPM) is installed in a patient's home.
+
+The RPM is turned on and a mobile device application connects to the RPM to begin system onboarding.
+The networking information is entered into the mobile device application and the data link to the cloud services are confirmed.
+
+The RPM sensors are placed on the patient by a health-care provider.
+The RPM sensors gather initial data and are tested for expected functionality.
+Upon successful calibration, the data is stored securely on the RPM and the mobile device application signals that onboarding is complete.
+
+### System Charge
+
+The mobile device application detects that the RPM needs to be charged and issues a notification on device and in the cloud.
+The RPM sensors are removed from the patient and the RPM is placed into its charging apparatus.
+When the RPM is sufficiently charged, the mobile device issues a notification on device and in the cloud.
+The RPM sensors are placed on the patient and calibration is checked.
+
+### Data Analytics
+
+Patient data is analyzed to provide...
+
+### System Offboarding
+
+The RPM is removed from a patient's home.
