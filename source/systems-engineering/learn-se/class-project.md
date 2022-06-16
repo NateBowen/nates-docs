@@ -12,6 +12,7 @@ What happens when:
 
 The power goes out?
 Other environmental factors are present?
+
 * Pets
 * Children
 * Patients are left alone?

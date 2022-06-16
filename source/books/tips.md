@@ -4,14 +4,14 @@
 
 Taken from Aun Abdi's YouTube video: [How to Take Effective Notes When Reading](https://www.youtube.com/watch?v=kTdX-Ua0BAM)
 
-### Start with a question in mind.
+### Start with a question in mind
 
 Why read this book?
 What am I trying to answer?
 
 This will help you finish the book.
 
-### Highlight while reading.
+### Highlight while reading
 
 Consider reading the whole page before highlighting anything on it.
 
