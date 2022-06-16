@@ -13,4 +13,5 @@ Nate's Notes
    bible-study/index
    books/index
    career-vision/index
+   strategic-planning/index
    systems-engineering/index
