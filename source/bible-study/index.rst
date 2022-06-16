@@ -7,3 +7,4 @@ Bible Study
    :includehidden:
 
    2022-04-06.md
+   ezekiel.md
