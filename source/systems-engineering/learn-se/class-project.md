@@ -4,6 +4,19 @@
 
 Remote Patient Monitoring System
 
+*Quick Notes*:
+
+Reference: FDA Video "Home Use Medical Devices: New Risks" (2011)
+
+What happens when:
+
+The power goes out?
+Other environmental factors are present?
+* Pets
+* Children
+* Patients are left alone?
+* Loud noises (TV?)
+
 ## 02 Physical Hierarchy
 
 ```{admonition} Problem
