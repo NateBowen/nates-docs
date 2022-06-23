@@ -4,7 +4,7 @@
 
 ### Caption
 
-Ezekiel is called.
+Ezekiel is shown.
 
 ### Contents
 
@@ -59,3 +59,81 @@ God is terrifying.
 He is truly awesome.
 When I am tempted to take God for granted, I will remember this experience that put Ezekiel on the ground.
 I am going to teach my children the same.
+
+## Chapter 2 - Summary
+
+### Caption
+
+Ezekiel is called.
+
+### Contents
+
+God tells Ezekiel that he is sending him to be a prophet to Israel.
+
+### Chief People
+
+* Ezekiel
+* God
+
+### Choice Verse
+
+```text
+"And you, son of man, do not be afraid of them nor be afraid of their words,
+though briers and thorns are with you and you dwell among scorpions;
+do not be afraid of their words or dismayed by their looks,
+though they are a rebellious house." - Ez. 2:6
+```
+
+### Crucial Words
+
+* Rebellious
+
+### Challenges
+
+How do we interpret the account of God telling Ezekiel to eat the scroll?
+
+### Cross References
+
+>He said to me, "Son of man, stand up on your feet and I will speak to you." - Ez. 2:1
+
+
+> But Jesus remained silent and gave no answer.
+>
+> Again the high priest asked him, "Are you the Messiah, the Son of the Blessed One?
+>
+> I am," said Jesus.
+>"And you will see the Son of Man sitting at the right hand of the Mighty One and coming on the clouds of heaven." - Mark 14:61-62
+
+There are lots of cross-references for the phrase, "Son of Man".
+This one from Mark is the one that I always remember.
+
+```text
+And whether they hear or refuse to hear (for they are a rebellious house) they will know that a prophet has been among them. - Ez. 2:5
+```
+
+```text
+When the centurion and those who were with him, keeping watch over Jesus, saw the earthquake and what took place,
+they were filled with awe and said, "Truly this was the Son of God!" - Matt. 27:54
+```
+
+This is pretty loose, and it might not really be a "cross reference", but there's a parallel event, here.
+Jesus was sent to save the lost.
+He was scorned and rejected.
+But those who were present at the crucifixion knew that a "prophet" had been among them.
+
+### Christ Seen
+
+```text
+Then the Spirit entered me when He spoke to me, and set me on my feet; and I heard Him who spoke to me. - Ez. 2:2
+```
+
+The Spirit comes to Ezekiel's aid so that he can obey the command of God.
+
+### Central Lessons
+
+God is serious about obedience.
+
+### Conclusion
+
+God's authority is good and right.
+I don't want to live as a "rebel" to His authority.
