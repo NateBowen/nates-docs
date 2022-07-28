@@ -96,7 +96,6 @@ How do we interpret the account of God telling Ezekiel to eat the scroll?
 
 >He said to me, "Son of man, stand up on your feet and I will speak to you." - Ez. 2:1
 
-
 > But Jesus remained silent and gave no answer.
 >
 > Again the high priest asked him, "Are you the Messiah, the Son of the Blessed One?
@@ -137,3 +136,64 @@ God is serious about obedience.
 
 God's authority is good and right.
 I don't want to live as a "rebel" to His authority.
+
+## Chapter 8 - Summary
+
+### Caption
+
+"Son of Man, See"
+
+### Contents
+
+God shows Ezekiel the abominations of idol worship that are happening in Jerusalem
+
+### Chief People
+
+* Ezekiel
+* God
+* Elders of Judah
+
+### Choice Verse
+
+
+### Crucial Words
+
+* Abomination
+* Idol
+* Jealousy
+
+### Challenges
+
+I do not worship Tammuz, or the Sun, or beasts.
+But do I give my heart to other worthless things?
+Am I an idolater of comfort?
+
+Another challenge:
+
+This verse is really hard.
+
+>"Therefore I also will act in fury.
+>My eye will not spare nor will I have pity;
+>and though they cry in My ears with a loud voice, I will not hear them." - Ez. 8:18
+
+### Cross References
+
+
+
+### Christ Seen
+
+The "likeness" of of God shows up in Ezekiel's face and carries him away in a vision.
+
+>And behold, the glory of the God of Israel was there, like the vision that I saw in the plain. - Ez. 8:4
+
+### Central Lessons
+
+God wants us to be mortified by the acts of idolatry.
+He also wants us to see how much patience he has had that he hasn't destroyed his people, yet.
+
+### Conclusion
+
+God is completely aware of our actions, attitudes, and affections.
+We hide nothing from him.
+He knows if we love him.
+He will not share space in our hearts.
