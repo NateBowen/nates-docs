@@ -197,3 +197,76 @@ God is completely aware of our actions, attitudes, and affections.
 We hide nothing from him.
 He knows if we love him.
 He will not share space in our hearts.
+
+## Chapter 13 - Summary
+
+### Caption
+
+"There is no peace."
+
+### Contents
+
+God condemns false prophets: "those who prophesy from their own hearts" and women who practice divination.
+
+### Chief People
+
+* God
+* Ezekiel
+* False prophets of Israel
+* Woman who practice divination
+
+### Choice Verse
+
+
+
+### Crucial Words
+
+* Woe
+* Whitewash
+* Peace
+* Divination
+* Souls
+
+### Challenges
+
+God speaks very clearly about the women practicing witchcraft as *actually controlling souls*.
+
+>You have profaned me among my people ...
+>putting to death souls who should not die and keeping alive souls who should not live,
+>by your lying to my people, who listen to lies. - Ez. 13:19
+
+That's pretty wild.
+It is especially relevant as we approach Halloween.
+Witchcraft is as real as it is evil.
+How do I teach my children about this as it annually invades our lives during this season?
+
+### Cross References
+
+>Thus says the Lord God, Woe to the foolish prophets who follow their own spirit, and have seen nothing! - Ez. 13:3
+
+>Trust in the Lord with all your heart, and do not lean on your own understanding.
+>In all your ways acknowledge him, and he will make straight your paths. - Prov. 3:56
+
+### Christ Seen
+
+This note about God's salvation of his people is reflective of Christ:
+
+>I will deliver my people out of your hand. And you shall know that I am the Lord. - Ez. 13:23b
+
+### Central Lessons
+
+>They have seen false visions and lying divinations.
+>They say, ‘Declares the Lord,’ when the Lord has not sent them, and yet they expect him to fulfill their word.
+>Have you not seen a false vision and uttered a lying divination, whenever you have said, ‘Declares the Lord,’
+>although I have not spoken?” - Ez. 13:6-7
+
+God expects his prophets to speak for Him and from Him, not whatever is in their heart.
+
+### Conclusion
+
+We are his prophets today, and we must speak only his truth.
+God will not honor our lies.
+
+We must also be very careful to listen to God's voice in scripture and discern the leading of the Holy Spirit.
+It is easy for us to "trust our own hearts".
+We must discipline ourselves to follow God so that we will not lead ourselves or others away from truth.
