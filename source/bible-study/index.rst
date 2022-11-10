@@ -9,3 +9,4 @@ Bible Study
    2022-04-06.md
    ezekiel.md
    character-quality/diligence.md
+   thematic-study/thankfulness-nt.md

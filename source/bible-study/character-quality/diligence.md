@@ -85,6 +85,8 @@ NASB Word Usage confinement (4), custody (2), diligence (1), division (2 ...
 
 ## Memory Verse
 
+
+
 ## Situation
 
 * Spiritual pursuit and leadership
