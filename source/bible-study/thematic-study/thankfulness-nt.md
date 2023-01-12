@@ -5,6 +5,7 @@ Variations:
 * Thank
 * Thanks
 * Thankfulness
+* Thanksgiving
 
 ## Questions
 
@@ -108,14 +109,26 @@ Using a search from [Blue Letter Bible](https://www.blueletterbible.org/search/s
 * Romans 14:6
 * Romans 16:4
 * 1 Cor. 10:30
+  * "I" (Any believer)
+  * To God (implied)
+  * Any food, even if it had been offered to idols
 * 1 Cor. 11:24
+  * Jesus
+  * To God (implied)
+  * For the food/elements of the communion
 * 1 Cor. 14:16
 * 1 Cor. 14:17
 * 1 Co 15:57
 * 2 Co 1:11
 * 2 Co 2:14
 * 2 Co 8:16
+  * Paul
+  * God
+  * Giving Titus a heart of "earnest care" for the Church in Corinth
 * 2 Co 9:15
+  * Paul
+  * God
+  * "His indescribable gift!"
 * Eph 1:16
 * Eph 5:4
 * Eph 5:20
@@ -131,23 +144,31 @@ Using a search from [Blue Letter Bible](https://www.blueletterbible.org/search/s
 * Rev 4:9
 * Rev 11:17
 
-
 ### "Thankfulness"
 
-* 1 Corithians 10:30
+* Acts 24:3
+  * "We" (Ananias the High Priest, the Jewish Elders, and Tertullus)
+  * Felix, the Roman Governor (of Judea?)
+  * "Through you we enjoy great peace, and prosperity..."
+* 1 Co 10:30
   * Paul
   * To God (implied)
   * For provision
-* Colossians 3:16
+* Col 3:16
   * The Church
   * To God
   * Everything?
-* Acts 24:3
 
 ### "Thanksgiving"
 
 * 2 Co 4:15
+  * Believers
+  * God
+  * Grace extended "to more and more people"
 * 2 Co 9:11
+  * "Us" (Paul and fellow believers)
+  * God
+  * The generosity of those who have been "enriched" by God
 * Phl 4:6
 * Col 2:7
 * Col 4:2
