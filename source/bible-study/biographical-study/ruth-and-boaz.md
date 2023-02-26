@@ -42,6 +42,8 @@ under whose wings you have come for refuge."
 
 ### Character Qualities
 
+#### Kindness
+
 #### Loyalty
 
 Ruth 1:16-17
@@ -69,6 +71,18 @@ When she saw that she was **determined** to go with her, she stopped speaking to
 ```
 
 ### Bible Truths Illustrated in the Person's Life
+
+Ruth demonstrates the diligence described in Proverbs 10:4-5.
+
+```text
+He who has a slack hand becomes poor,
+But the hand of the diligent makes rich.
+He who gathers in summer is a wise son;
+He who sleeps in harvest is a son who causes shame.
+```
+
+She goes out from morning till evening to glean after the reapers, and she continues to do this "until the end of barley harvest."
+In doing so, she provides food (and maybe a source of income) for herself and Naomi.
 
 ### Main Lesson
 
