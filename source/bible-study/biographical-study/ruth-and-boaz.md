@@ -31,7 +31,7 @@ Ruth 2:11-12
 ```text
 And Boaz answered and said to her,
 "It has been fully reported to me,
-all that you have done for your monther-in-law since the death of your husband,
+all that you have done for your mother-in-law since the death of your husband,
 and how you have left your father and your mother and the land of your birth,
 and have come to a people whom you did not know before.
 
