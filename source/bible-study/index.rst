@@ -11,3 +11,4 @@ Bible Study
    character-quality/diligence.md
    thematic-study/thankfulness-nt.md
    biographical-study/ruth-and-boaz.md
+   topical-study/resurrection.md
