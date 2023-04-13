@@ -6,37 +6,37 @@ I do want to specifically study the concept of literal resurrection from the dea
 
 ## Compile a List of Words
 
-Resurrection
-Raising
-Rising
-Restoration
-Return
-Revive
-Regeneration
+* Resurrection
+* Raising
+* Rising
+* Restoration
+* Return
+* Revive
+* Regeneration
 
-Born Again
+* Born Again
 
-Alive
-Life
-New Life
-New
+* Alive
+* Life
+* New Life
+* New
 
-Dead
-Death
-Old
-Decay
+* Dead
+* Death
+* Old
+* Decay
 
 ### Side Concepts
 
-Lazerus
-Jairus' daughter
-Jesus
+* Lazerus
+* Jairus' daughter
+* Jesus
 
-"Caught up in the air"
+* "Caught up in the air"
 
-Valley of Dry Bones
-The ghost of Samuel
-Moses and Elijah on the mountain top
+*Valley of Dry Bones
+*The ghost of Samuel
+*Moses and Elijah on the mountain top
 
 ## Bible References
 
@@ -63,40 +63,39 @@ For I have come down from heaven, not to do My own will, but the will of Him who
 This is the will of the Father who sent Me, that of all He has given Me I should lose nothing, but should **raise** it up at the last day.
 And this is the will of Him who sent Me, that everyone who sees the Son and believes in Him may have everlasting life; and I will **raise** him up at the last day."
 
-James 5:15
+* James 5:15
 
-
-Matt. 15:21
-Rom. 6:4
-Rom. 8:11
-1 Cor. 15:35
-1 Cor. 15:52
-Eph. 2:6
+* Matt. 15:21
+* Rom. 6:4
+* Rom. 8:11
+* 1 Cor. 15:35
+* 1 Cor. 15:52
+* Eph. 2:6
 
 John 5:21
 "For as the Father **raises** the dead and gives life to them, even so the Son **gives life** to whom He will.
 
-2 Cor. 1:9
-Rom. 14:9
-1 Cor. 15:4
-1 Thess. 4:14
+* 2 Cor. 1:9
+* Rom. 14:9
+* 1 Cor. 15:4
+* 1 Thess. 4:14
 
 ### Regeneration
 
-Matt. 19:28
-Titus 3:5
+* Matt. 19:28
+* Titus 3:5
 
 ### Revive, Revived
 
-Ps. 85:6
-Rom. 7:9
+* Ps. 85:6
+* Rom. 7:9
 
 ### Resurrection
 
-John 11:25
-Acts 17:18
-Rom. 6:5
-1 Cor. 15:12
-Phil. 3:10
-Heb. 11:35
-Rev. 20:5
+* John 11:25
+* Acts 17:18
+* Rom. 6:5
+* 1 Cor. 15:12
+* Phil. 3:10
+* Heb. 11:35
+* Rev. 20:5
